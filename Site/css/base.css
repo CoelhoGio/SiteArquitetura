@@ -1,0 +1,66 @@
+.header {
+    background-color: #add1ae;
+    height: 75px
+}
+
+.logo {
+    display: inline-block;
+    position: absolute;
+    margin-top: .7rem;
+    margin-right: .7rem;
+    margin-bottom: 1.25rem;
+    margin-left: .7rem;
+}
+
+.nome {
+    display: inline-block;
+    color:#FA8072;
+    font-size: 25px;
+    letter-spacing: 5px;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+
+.linha-horizontal {
+    margin: 3px auto 3px auto;
+}
+
+.subtitulo {
+    text-align: center;
+    color: #0d98ba;
+    font-size: 15px;
+    letter-spacing: 3.5px;
+    margin-left: 0px;
+    margin-top: auto;
+}
+
+.nav-menu {
+    text-align: center;
+    display: inline-block;
+    position: fixed; 
+    top: 2rem; 
+    right: 1rem;
+    bottom: 1rem;
+
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.cor {
+    background-color: #adceae;
+    background-size: cover;
+    padding: auto;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
